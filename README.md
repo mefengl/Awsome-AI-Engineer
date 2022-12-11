@@ -63,3 +63,14 @@ https://github.com/github/copilot.vim
 -- add this in Packer
 use 'github/copilot.vim'
 ```
+
+## Browser
+
+### ChatGPT
+a tab or tabs of https://chat.openai.com/chat
+
+## Usage
+
+https://github.com/f/awesome-chatgpt-prompts
+
+https://github.com/wuchangming/chatgpt-query-engineer-handbook
