@@ -69,6 +69,9 @@ use 'github/copilot.vim'
 ### ChatGPT
 a tab or tabs of https://chat.openai.com/chat
 
+### chatgpt-chrome-extension
+https://github.com/gragland/chatgpt-chrome-extension#install
+
 ## Usage
 
 https://github.com/f/awesome-chatgpt-prompts
