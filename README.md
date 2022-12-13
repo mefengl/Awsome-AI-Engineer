@@ -46,11 +46,6 @@ python -m pip install -r requirements.txt
 ### Github Copilot
 https://marketplace.visualstudio.com/items?itemName=GitHub.copilotvs
 
-### ChatGPT
-https://github.com/mpociot/chatgpt-vscode
-
-Not Official, so you need to get the session token by yourself, see https://github.com/mpociot/chatgpt-vscode#obtaining-the-session-token
-
 ## Neovim
 
 ### Packer
