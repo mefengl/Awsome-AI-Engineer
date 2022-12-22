@@ -72,3 +72,9 @@ https://github.com/gragland/chatgpt-chrome-extension#install
 https://github.com/f/awesome-chatgpt-prompts
 
 https://github.com/wuchangming/chatgpt-query-engineer-handbook
+
+## Else
+
+### Notion
+
+https://www.notion.so/product/ai
