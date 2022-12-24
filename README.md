@@ -23,8 +23,6 @@ https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zs
 ### Codex-CLI
 https://github.com/microsoft/Codex-CLI/blob/main/Installation.md#zsh-instructions
 
-https://github.com/microsoft/Codex-CLI/blob/main/Installation.md#zsh-instructions
-
 -k can be find in https://beta.openai.com/account/api-keys
 
 -e can be find in https://beta.openai.com/docs/models/codex
