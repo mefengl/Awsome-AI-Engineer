@@ -45,6 +45,10 @@ python -m pip install -r requirements.txt
 https://marketplace.visualstudio.com/items?itemName=GitHub.copilotvs
 
 ### ChatGPT
+https://marketplace.visualstudio.com/items?itemName=gencay.vscode-chatgpt
+
+config:
+
 https://github.com/gencay/vscode-chatgpt#gpt3
 
 `Cmd + Shift + P` and type `Open User Settings (JSON)`,
