@@ -44,6 +44,16 @@ python -m pip install -r requirements.txt
 ### Github Copilot
 https://marketplace.visualstudio.com/items?itemName=GitHub.copilotvs
 
+### ChatGPT
+https://github.com/gencay/vscode-chatgpt#gpt3
+
+`Cmd + Shift + P` and type `Open User Settings (JSON)`,
+```json
+"chatgpt.method": "GPT3 OpenAI API Key",
+// can be created in https://beta.openai.com/account/api-keys
+"chatgpt.gpt3.apiKey": "sk-xxxxxxxxxx",
+```
+
 ## Neovim
 
 ### Packer
