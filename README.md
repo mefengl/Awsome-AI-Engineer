@@ -51,20 +51,36 @@ https://github.com/gencay/vscode-chatgpt#gpt3
 ```json
 "chatgpt.method": "GPT3 OpenAI API Key",
 // can be created in https://beta.openai.com/account/api-keys
-"chatgpt.gpt3.apiKey": "sk-xxxxxxxxxx",
+"chatgpt.gpt3.apiKey": "xx-xxxxxxxxxx",
 ```
 
 ## Neovim
 
-### Packer
-https://github.com/wbthomason/packer.nvim#quickstart
+### vim-plug
+https://github.com/junegunn/vim-plug#neovim
+
+or auto install vim-plug if not exists
+```lua
+-- [[ ~/.config/nvim/init.lua ]]
+vim.cmd([[
+let data_dir = has('nvim') ? stdpath('data') . '/site' : '~/.vim'
+if empty(glob(data_dir . '/autoload/plug.vim'))
+  silent execute '!curl -fLo '.data_dir.'/autoload/plug.vim --create-dirs  https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+  autocmd VimEnter * PlugInstall --sync | source $MYVIMRC
+endif
+]])
+```
 
 ### Github Copilot
 https://github.com/github/copilot.vim
 
 ```lua
--- add this in Packer
-use 'github/copilot.vim'
+-- [[ ~/.config/nvim/init.lua ]]
+vim.cmd([[
+call plug#begin()
+Plug 'github/copilot.vim'
+call plug#end()
+]])
 ```
 
 ## Browser
