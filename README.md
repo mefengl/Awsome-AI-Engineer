@@ -23,11 +23,11 @@ https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zs
 ### Codex-CLI
 https://github.com/microsoft/Codex-CLI/blob/main/Installation.md#zsh-instructions
 
+-o can be find in https://beta.openai.com/account/org-settings
+
 -k can be find in https://beta.openai.com/account/api-keys
 
 -e can be find in https://beta.openai.com/docs/models/codex
-
--o can be find in https://beta.openai.com/account/org-settings
 
 ```bash
 git clone https://github.com/microsoft/Codex-CLI.git
