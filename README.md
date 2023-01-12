@@ -95,6 +95,18 @@ a tab or tabs of https://chat.openai.com/chat
 ### chat-gpt-google-extension
 https://github.com/wong2/chat-gpt-google-extension
 
+### EnhancedChatGPT
+https://github.com/mohalobaidi/EnhancedChatGPT
+
+### Superpower ChatGPT
+https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc
+
+### WebChatGPT
+https://github.com/qunash/chatgpt-advanced
+
+### Merlin
+https://github.com/foyer-work/ooogle-it
+
 ## Usage
 
 https://github.com/f/awesome-chatgpt-prompts
