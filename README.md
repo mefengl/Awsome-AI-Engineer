@@ -1,26 +1,33 @@
 # Awesome-AI-Engineer
+
 who should be called AI engineer, the creater, or the user?
 
 ## Requirements
 
 ### Github Copilot Subscription
+
 https://github.com/features/copilot
 
-### OpenAI Acccount 
+### OpenAI Acccount
+
 https://beta.openai.com/
 
-### oh-my-zsh 
+### oh-my-zsh
+
 https://ohmyz.sh/#install
 
 ### Neovim
+
 https://github.com/neovim/neovim/wiki/Installing-Neovim#install-from-package
 
 ## CLI
 
-### zsh-autosuggestions 
+### zsh-autosuggestions
+
 https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh
 
 ### Codex-CLI
+
 https://github.com/microsoft/Codex-CLI/blob/main/Installation.md#zsh-instructions
 
 -o can be find in https://beta.openai.com/account/org-settings
@@ -41,10 +48,21 @@ python -m pip install -r requirements.txt
 
 ## VS Code
 
-### Github Copilot
-https://marketplace.visualstudio.com/items?itemName=GitHub.copilotvs
+### GitHub Copilot Nightly
+
+https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-nightly
+
+### GitHub Copilot Labs
+
+https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-labs
+
+```json
+"github.copilot-labs.showBrushesLenses": true,
+"github.copilot-labs.showTestGenerationLenses": true,
+```
 
 ### ChatGPT
+
 https://marketplace.visualstudio.com/items?itemName=gencay.vscode-chatgpt
 
 config:
@@ -52,6 +70,7 @@ config:
 https://github.com/gencay/vscode-chatgpt#gpt3
 
 `Cmd + Shift + P` and type `Open User Settings (JSON)`,
+
 ```json
 "chatgpt.method": "GPT3 OpenAI API Key",
 // can be created in https://beta.openai.com/account/api-keys
@@ -61,9 +80,11 @@ https://github.com/gencay/vscode-chatgpt#gpt3
 ## Neovim
 
 ### vim-plug
+
 https://github.com/junegunn/vim-plug#neovim
 
 or auto install vim-plug if not exists
+
 ```lua
 -- [[ ~/.config/nvim/init.lua ]]
 vim.cmd([[
@@ -76,6 +97,7 @@ endif
 ```
 
 ### Github Copilot
+
 https://github.com/github/copilot.vim
 
 ```lua
@@ -90,21 +112,27 @@ call plug#end()
 ## Browser
 
 ### ChatGPT
+
 a tab or tabs of https://chat.openai.com/chat
 
 ### chat-gpt-google-extension
+
 https://github.com/wong2/chat-gpt-google-extension
 
 ### EnhancedChatGPT
+
 https://github.com/mohalobaidi/EnhancedChatGPT
 
 ### Superpower ChatGPT
+
 https://chrome.google.com/webstore/detail/superpower-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc
 
 ### WebChatGPT
+
 https://github.com/qunash/chatgpt-advanced
 
 ### Merlin
+
 https://github.com/foyer-work/ooogle-it
 
 ## Usage
