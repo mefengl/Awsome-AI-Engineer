@@ -123,14 +123,6 @@ https://github.com/wong2/chat-gpt-google-extension
 
 https://github.com/mohalobaidi/EnhancedChatGPT
 
-### WebChatGPT
-
-https://github.com/qunash/chatgpt-advanced
-
-### Merlin
-
-https://github.com/foyer-work/ooogle-it
-
 ## Usage
 
 https://github.com/f/awesome-chatgpt-prompts
