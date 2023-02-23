@@ -119,10 +119,6 @@ a tab or tabs of https://chat.openai.com/chat
 
 https://github.com/wong2/chat-gpt-google-extension
 
-### EnhancedChatGPT
-
-https://github.com/mohalobaidi/EnhancedChatGPT
-
 ## Usage
 
 https://github.com/f/awesome-chatgpt-prompts
