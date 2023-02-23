@@ -52,15 +52,6 @@ python -m pip install -r requirements.txt
 
 https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-nightly
 
-### GitHub Copilot Labs
-
-https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-labs
-
-```json
-"github.copilot-labs.showBrushesLenses": true,
-"github.copilot-labs.showTestGenerationLenses": true,
-```
-
 ### ChatGPT
 
 https://marketplace.visualstudio.com/items?itemName=gencay.vscode-chatgpt
@@ -125,23 +116,21 @@ https://github.com/f/awesome-chatgpt-prompts
 
 https://github.com/wuchangming/chatgpt-query-engineer-handbook
 
-## Else
+## Mac
 
 ### Notion
 
 https://www.notion.so/product/ai
 
-## Maybe useful
-
-### Mac
-
-#### Raycast AI
+### Raycast AI
 
 AI as hotkey
 
-#### Bob
+### Bob
 
 https://github.com/yetone/bob-plugin-openai-translator
+
+## Maybe Useful
 
 ### VSCode
 
@@ -159,4 +148,13 @@ https://github.com/gencay/vscode-chatgpt#gpt3
 "chatgpt.method": "GPT3 OpenAI API Key",
 // can be created in https://beta.openai.com/account/api-keys
 "chatgpt.gpt3.apiKey": "xx-xxxxxxxxxx",
+```
+
+#### GitHub Copilot Labs
+
+https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-labs
+
+```json
+"github.copilot-labs.showBrushesLenses": true,
+"github.copilot-labs.showTestGenerationLenses": true,
 ```
