@@ -137,6 +137,16 @@ https://www.notion.so/product/ai
 
 ## Maybe useful
 
+### Mac
+
+#### Raycast AI
+
+AI as hotkey
+
+#### Bob
+
+https://github.com/yetone/bob-plugin-openai-translator
+
 ### VSCode
 
 #### ChatGPT
