@@ -106,10 +106,6 @@ call plug#end()
 
 a tab or tabs of https://chat.openai.com/chat
 
-### chat-gpt-google-extension
-
-https://github.com/wong2/chat-gpt-google-extension
-
 ## Usage
 
 https://github.com/f/awesome-chatgpt-prompts
