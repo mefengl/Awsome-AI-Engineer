@@ -26,6 +26,12 @@ https://github.com/neovim/neovim/wiki/Installing-Neovim#install-from-package
 
 https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh
 
+### GitHub Copilot CLI
+
+https://www.npmjs.com/package/@githubnext/github-copilot-cli
+
+it need copilot subscription and sign up the waitlist, can use Codex-CLI blow instead
+
 ### Codex-CLI
 
 https://github.com/microsoft/Codex-CLI/blob/main/Installation.md#zsh-instructions
