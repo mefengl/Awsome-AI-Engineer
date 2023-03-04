@@ -132,6 +132,8 @@ AI as hotkey
 
 https://github.com/yetone/bob-plugin-openai-translator
 
+https://github.com/yetone/bob-plugin-openai-polisher
+
 ## Maybe Useful
 
 ### VSCode
