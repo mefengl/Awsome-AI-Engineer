@@ -126,7 +126,10 @@ https://www.notion.so/product/ai
 
 ### Raycast AI
 
-AI as hotkey
+https://www.raycast.com/ai
+
+AaaH! AI as a Hotkey
+
 
 ### Bob
 
