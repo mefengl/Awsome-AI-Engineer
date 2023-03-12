@@ -112,6 +112,12 @@ call plug#end()
 
 a tab or tabs of https://chat.openai.com/chat
 
+#### Scripts
+
+https://greasyfork.org/zh-CN/scripts/460805-autoclear-chatgpt-history
+
+https://greasyfork.org/zh-CN/scripts/461473-chatgpt-widescreen-mode
+
 ## Usage
 
 https://github.com/f/awesome-chatgpt-prompts
