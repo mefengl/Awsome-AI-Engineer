@@ -126,6 +126,10 @@ https://github.com/wuchangming/chatgpt-query-engineer-handbook
 
 ## Mac
 
+### Cursor
+
+https://www.cursor.so/
+
 ### Notion
 
 https://www.notion.so/product/ai
