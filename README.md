@@ -118,9 +118,11 @@ a tab or tabs of https://chat.openai.com/chat
 
 #### Scripts
 
-https://greasyfork.org/zh-CN/scripts/460805-autoclear-chatgpt-history
+https://greasyfork.org/scripts/462713-chat-octopus , one prompt, three ai models answer for you
 
-https://greasyfork.org/zh-CN/scripts/461473-chatgpt-widescreen-mode
+### Extension
+
+https://github.com/anaclumos/bing-chat-for-all-browsers , to use Bing Chat in other browsers
 
 ## Usage
 
