@@ -26,9 +26,9 @@ https://github.com/neovim/neovim/wiki/Installing-Neovim#install-from-package
 
 https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh
 
-### gptcommit
+### opencommit
 
-https://github.com/zurawiki/gptcommit
+https://github.com/di-sukharev/opencommit
 
 ### GitHub Copilot CLI
 
