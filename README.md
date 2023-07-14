@@ -102,10 +102,6 @@ a tab or tabs of https://chat.openai.com/chat
 - [ChatGPT Auto-Continue 🔄](https://greasyfork.org/en/scripts/466663-chatgpt-auto-continue)
 - [Midjourney Click All](https://greasyfork.org/en/scripts/466654-midjourney-click-all)
 
-### Extension
-
-https://github.com/anaclumos/bing-chat-for-all-browsers , to use Bing Chat in other browsers
-
 ## Usage
 
 https://github.com/f/awesome-chatgpt-prompts
