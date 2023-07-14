@@ -96,7 +96,11 @@ a tab or tabs of https://chat.openai.com/chat
 
 #### Scripts
 
-https://greasyfork.org/scripts/462713-chat-octopus , one prompt, three ai models answer for you
+- [chatgpt-page-translate-button](https://greasyfork.org/en/scripts/464067-chatgpt-page-translate-button)
+- [chatgpt-page-summary-button](https://greasyfork.org/en/scripts/466322-chatgpt-page-summary-button)
+- [chatgpt-hide-history](https://greasyfork.org/en/scripts/467416-chatgpt-hide-history)
+- [ChatGPT Auto-Continue 🔄](https://greasyfork.org/en/scripts/466663-chatgpt-auto-continue)
+- [Midjourney Click All](https://greasyfork.org/en/scripts/466654-midjourney-click-all)
 
 ### Extension
 
