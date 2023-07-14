@@ -1,6 +1,6 @@
 # Awesome-AI-Engineer
 
-who should be called AI engineer, the creater, or the user?
+Who should be called AI engineer, the creater, or the user?
 
 ## Requirements
 
@@ -26,57 +26,35 @@ https://github.com/neovim/neovim/wiki/Installing-Neovim#install-from-package
 
 https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh
 
-### opencommit
-
-https://github.com/di-sukharev/opencommit
-
 ### GitHub Copilot CLI
 
 https://www.npmjs.com/package/@githubnext/github-copilot-cli
 
-it need copilot subscription and sign up the waitlist, can use Codex-CLI blow instead
-
-### Codex-CLI
-
-https://github.com/microsoft/Codex-CLI/blob/main/Installation.md#zsh-instructions
-
--o can be find in https://beta.openai.com/account/org-settings
-
--k can be find in https://beta.openai.com/account/api-keys
-
--e can be find in https://beta.openai.com/docs/models/codex
-
-```bash
-git clone https://github.com/microsoft/Codex-CLI.git
-cd Codex-CLI
-# install the requirements
-python -m pip install -r requirements.txt
-
-# setup in zsh
-./scripts/zsh_setup.sh -o <org-xxxxxxxxxx> -k <sk-xxxxxxxxxx> -e <code-xxxx-0xx>
-```
+It need copilot subscription and sign up the waitlist, can use Codex-CLI blow instead
 
 ## VS Code
 
-### GitHub Copilot Nightly
+Packed below extensions in [AI Pack](https://marketplace.visualstudio.com/items?itemName=mefengl.vscode-ai-pack)
 
-https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-nightly
+### GitHub Copilot
 
-### ChatGPT
+https://marketplace.visualstudio.com/items?itemName=GitHub.copilot
 
-https://marketplace.visualstudio.com/items?itemName=gencay.vscode-chatgpt
+### GitHub Copilot Chat
 
-config:
+https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat
 
-https://github.com/gencay/vscode-chatgpt#gpt3
+### I Don't Care About Commit Message
 
-`Cmd + Shift + P` and type `Open User Settings (JSON)`,
+https://marketplace.visualstudio.com/items?itemName=mefengl.vscode-i-dont-care-about-commit-message
 
-```json
-"chatgpt.method": "GPT3 OpenAI API Key",
-// can be created in https://beta.openai.com/account/api-keys
-"chatgpt.gpt3.apiKey": "xx-xxxxxxxxxx",
-```
+repo: https://github.com/mefengl/vscode-i-dont-care-about-commit-message
+
+### Copy Folder Content
+
+https://marketplace.visualstudio.com/items?itemName=mefengl.copy-folder-content
+
+repo: https://github.com/mefengl/vscode-copy-folder-content
 
 ## Neovim
 
@@ -180,3 +158,29 @@ https://www.notion.so/product/ai
 https://www.raycast.com/ai
 
 AaaH! AI as a Hotkey
+
+### CLI
+
+#### Codex-CLI
+
+https://github.com/microsoft/Codex-CLI/blob/main/Installation.md#zsh-instructions
+
+-o can be find in https://beta.openai.com/account/org-settings
+
+-k can be find in https://beta.openai.com/account/api-keys
+
+-e can be find in https://beta.openai.com/docs/models/codex
+
+```bash
+git clone https://github.com/microsoft/Codex-CLI.git
+cd Codex-CLI
+# install the requirements
+python -m pip install -r requirements.txt
+
+# setup in zsh
+./scripts/zsh_setup.sh -o <org-xxxxxxxxxx> -k <sk-xxxxxxxxxx> -e <code-xxxx-0xx>
+```
+
+#### opencommit
+
+https://github.com/di-sukharev/opencommit
