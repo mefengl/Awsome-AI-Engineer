@@ -130,23 +130,6 @@ https://github.com/f/awesome-chatgpt-prompts
 
 https://github.com/wuchangming/chatgpt-query-engineer-handbook
 
-## Mac
-
-### Cursor
-
-https://www.cursor.so/
-
-### Notion
-
-https://www.notion.so/product/ai
-
-### Raycast AI
-
-https://www.raycast.com/ai
-
-AaaH! AI as a Hotkey
-
-
 ### Bob
 
 https://github.com/yetone/bob-plugin-openai-translator
@@ -181,3 +164,19 @@ https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-labs
 "github.copilot-labs.showBrushesLenses": true,
 "github.copilot-labs.showTestGenerationLenses": true,
 ```
+
+### Mac
+
+#### Cursor
+
+https://www.cursor.so/
+
+#### Notion
+
+https://www.notion.so/product/ai
+
+#### Raycast AI
+
+https://www.raycast.com/ai
+
+AaaH! AI as a Hotkey
