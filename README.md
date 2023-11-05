@@ -1,4 +1,4 @@
-# Awesome-AI-Engineer
+# AI Setup
 
 Who should be called AI engineer, the creater, or the user?
 
@@ -26,11 +26,16 @@ https://github.com/neovim/neovim/wiki/Installing-Neovim#install-from-package
 
 https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md#oh-my-zsh
 
-### GitHub Copilot CLI
+### ai-shell
 
-https://www.npmjs.com/package/@githubnext/github-copilot-cli
+https://github.com/BuilderIO/ai-shell
 
-It need copilot subscription and sign up the waitlist, can use Codex-CLI blow instead
+#### Recommended Configuration
+
+To configure the settings, follow these steps:
+1. Run `ai config` to open the configuration UI.
+2. Enable "silent mode".
+3. If available, select `gpt-4`. Since silent mode is already enabled, it should be much cheaper to use.
 
 ## VS Code
 
@@ -160,6 +165,12 @@ https://www.raycast.com/ai
 AaaH! AI as a Hotkey
 
 ### CLI
+
+#### GitHub Copilot CLI
+
+https://www.npmjs.com/package/@githubnext/github-copilot-cli
+
+It need copilot subscription and sign up the waitlist, can use Codex-CLI blow instead
 
 #### Codex-CLI
 
